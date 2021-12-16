@@ -11,5 +11,12 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamluqui&show_icons=true&theme=dracula)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=williamluqui&layout=compact&langs_count=8&theme=dracula)](https://github.com/williamluqui/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/williamluqui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamluqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamluqui&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+
+ 
+ ##
