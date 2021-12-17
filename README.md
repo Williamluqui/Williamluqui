@@ -3,13 +3,11 @@
 
  
 
-:computer: I'm Back-End Developer!
+:computer: desenvolvedor back-end!
 
-:house_with_garden: I’m from Brazil.
+:books: Atualmente estou aprendendo .
 
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: Objetivos 2021: criar um novos projetos !! 
 
 <div align="center">
   <a href="https://github.com/williamluqui">
