@@ -5,7 +5,7 @@
 
 :computer: desenvolvedor back-end!
 
-:books: Atualmente estou aprendendo .
+:books: Atualmente aprendendo .
 
 :outbox_tray: Objetivos 2021: criar novos projetos !! 
 
