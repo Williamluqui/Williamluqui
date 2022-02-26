@@ -7,7 +7,7 @@
 
 :books: Atualmente aprendendo .
 
-:outbox_tray: Objetivos 2021: criar novos projetos !! 
+:outbox_tray: Objetivos 2022: criar novos projetos !! 
 
 <div align="left">
   <a href="https://github.com/williamluqui">
