@@ -5,7 +5,7 @@
 
 :computer: desenvolvedor back-end!
 
-:books: Atualmente aprendendo .
+:books: Atualmente aprendendo JavaScript.
 
 :outbox_tray: Objetivos 2022: criar novos projetos !! 
 
