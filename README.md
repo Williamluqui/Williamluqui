@@ -23,6 +23,7 @@
   <img align="center" alt="wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="wil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="wil-Js" height="30" width="40" src="https://user-images.githubusercontent.com/88260564/180134703-38ee3283-b143-432a-9b28-e5fd7dcf3d00.png">
 </div>
 
  
