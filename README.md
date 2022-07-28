@@ -7,7 +7,7 @@
 
 :books: Atualmente aprendendo Node JavaScript.
 
-:outbox_tray: Objetivos 2022: criar novos projetos !! 
+:outbox_tray: Objetivos 2022: criar novos projetos e implementar os existentes !! 
 
 <div align="left">
   <a href="https://github.com/williamluqui">
