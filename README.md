@@ -5,9 +5,9 @@
 
 :computer: desenvolvedor back-end!
 
-:books: Atualmente aprendendo Node JavaScript.
+:books: Atualmente trabalhando com Typescript/Javascript NodeJs.
 
-:outbox_tray: Objetivos 2022: criar novos projetos e implementar os existentes !! 
+:outbox_tray: Objetivos 2024: criar novos projetos e implementar os existentes !! 
 
 <div align="left">
   <a href="https://github.com/williamluqui">
