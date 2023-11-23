@@ -3,7 +3,7 @@
 
  
 
-:computer: desenvolvedor back-end!
+:computer: Desenvolvedor back-end!
 
 :books: Atualmente trabalhando com Typescript/Javascript NodeJs.
 
