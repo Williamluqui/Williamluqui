@@ -19,9 +19,6 @@
  
  ##
  <div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="wil-Js" height="30" width="40" src="https://github.com/YonLiud/MySQL-Discord-Bot/assets/88260564/7f552764-b8a8-45a6-ab99-ba76444db271">
-  <img align="center" alt="wil-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
    <img align="center" alt="wil-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
   <img align="center" alt="wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="wil-Js" height="30" width="40" src="https://user-images.githubusercontent.com/4727/38117898-75c704e4-336c-11e8-82bb-dffd73f55e94.png">
