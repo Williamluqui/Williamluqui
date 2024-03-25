@@ -9,6 +9,9 @@
 
 :outbox_tray: Objetivos 2024: criar novos projetos e implementar os existentes !! 
 
+Obs.: Alguns peojetos se encontram em privado ou em outro repositório.
+
+
 <div align="left">
   <a href="https://github.com/williamluqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamluqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
