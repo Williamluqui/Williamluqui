@@ -9,7 +9,7 @@
 
 :outbox_tray: Objetivos 2024: criar novos projetos e implementar os existentes !! 
 
-Obs.: Alguns peojetos se encontram em privado ou em outro repositório.
+Obs.: Alguns projetos se encontram em privado ou em outro repositório.
 
 
 <div align="left">
